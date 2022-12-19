@@ -93,8 +93,3 @@ Importing and indexing a dataset<br>
 4) Creating Python script to implement CRUD operations on MongoDB<br>
 5) Creating Dash script to run data aggregation queries to fetch data from the database and display it on a webpage using graphs</i><br></p>
 <p>The process taught me about <b>database management</b>. I also learnt how to implement <b>crude operations</b> on the database from <b>Python</b> and how to use <b>Dash</b> to display data on a webpage. There was a challenge in getting the <b>plotly graphs</b> to work but I managed to work through it.</p>
-
-<h2>Review comments</h2>
-<p>Hi Ritesh,<br>
-Yes now I can see the statements. Good screen captures to support the implementation. Make sure you polish the grammar before the final portfolio (example: I also learnt how to implement crude operations on the database from Python and how to use Dash to display data on a webpage)<br>
-I need to see meaningful headers in your code files to present intent and decisions for the files. Remember to specifically support, within your narrative, how you met each of the five course outcomes across your enhancements.--I do not see this.  I am here when you have questions.</p>
